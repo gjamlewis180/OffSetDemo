@@ -5,7 +5,7 @@
 
 # Builds for Desktop
 *.exe
-*.zip
+# removed *.zip
 *.pkg
 
 # Builds for Mobile
